@@ -1,0 +1,42 @@
+.toolbar{
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: aqua;
+    height: 200px;
+    width: 100%;
+    top: 0;
+}
+
+.banner{
+    background-color: aqua;
+    height: 75%;
+    width: 100%;
+}
+
+.topNavigation{
+    background-color: white;
+    display: block;
+    height: 25%;
+    width: 100%;
+}
+
+.margin-left-1{
+    margin-left: 10px;
+}
+
+.center-nav{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+
+.bodyapk{
+    margin-top: 220px;
+    background-color: white;
+    display: block;
+    height: 25%;
+    width: 100%;
+}
